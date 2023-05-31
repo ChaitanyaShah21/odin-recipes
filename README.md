@@ -1,6 +1,6 @@
-## odin-recipes
+# odin-recipes
 
-# This project is a basic recipe website.
+## This project is a basic recipe website.
 
 It currently uses only basic html.
 
